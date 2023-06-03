@@ -1,0 +1,7 @@
+Total Interactions,Total Unique Users,Most Visited URL,Average Time Spent on Each URL
+31,5,https://growthschool.io/home,"url
+https://growthschool.io/about      30.625
+https://growthschool.io/contact    20.000
+https://growthschool.io/home       25.625
+https://growthschool.io/product    40.625
+Name: page_view_duration, dtype: float64"

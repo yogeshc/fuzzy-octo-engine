@@ -5,6 +5,15 @@ import pandas as pd
 from collections import Counter, defaultdict
 
 class CSVProcessor:
+    __author__ = "Yogesh Chaudhari"
+    __copyright__ = "Copyright 2023, Yogesh Chaudhari"
+    __credits__ = ["https://www.educative.io/path/python-for-data-analysis"]
+    __license__ = "GPLv3"
+    __version__ = "0.0.1"
+    __maintainer__ = "Yogesh Chaudhari"
+    __email__ = "mr.yogesh@gmail.com"
+    __status__ = "Development"
+    
     """
     This class used to process CSV files containing user interaction data.
 

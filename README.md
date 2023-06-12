@@ -4,7 +4,7 @@ Pandas Data analysis examples for CSV input files
 This repo is for answering questions as a part of assignment for Cloud Data Engineering course.
 The questions are provided at end of document.
 
-**Q1: Solution is provided in src/1_website_data_analysis_large_perf_class.py**
+**Q1: Solution is provided in src/1_website_data_analysis_large_perf_class.py**.
 
 **Q2: Solution is provided in src/2_customer_transaction_product_total_class.py**
 
